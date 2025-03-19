@@ -29,7 +29,7 @@ body {
 
 <body>
 
-<h3>Bienvenido a MEPS </h3>
+<h3>Bem vindo ao MEPS </h3>
 <p>Edit the code in the window to the left, and view the result on the right.</p>
 
 
